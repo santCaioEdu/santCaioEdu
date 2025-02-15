@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🧑🏽‍💻 Caio Santiago
 
-<!--
-**santCaioEdu/santCaioEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor java`**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo Caio Eduardo Teixeira Santiago, tenho 23 anos e estudo Análise e Desenvolvimento de Sistemas na Estácio (EAD)!!!<br><br>
+---
+### Tecnologias e linguagens🤖
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+  />
+  <br><br>
+ 
+  ### Estatísticas🤖
+  <img
+    align="left"
+    alt="Github stats"
+    height="200"
+    style="padding-right: 20px;"
+    src="https://github-readme-stats.vercel.app/api?username=santCaioEdu&show_icons=true&theme=tokyonight&include_all_commits=true)"
+  />
